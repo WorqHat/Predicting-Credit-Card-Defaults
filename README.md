@@ -1,4 +1,4 @@
-# Catch Me If You Can
+# Predicting credit card defaults
 Predicting credit card defaults through classification analysis.
 
 ## Context 
